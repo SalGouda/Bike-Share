@@ -2,6 +2,8 @@ This project was completed as part of Udacity's Professional Data Analysis Nanod
 
 # Bike-Share
 
+This project focuses on pandas library usage and simple statistics methods to perform a rudimentary analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
+
 Acknowledgments:
 - Egypt fwd community and tutors for support and help in better understanding the project (https://nfpdiscussions.udacity.com/).
 - stackoverflow community for answering all questions related to code and python (https://stackoverflow.com/)
